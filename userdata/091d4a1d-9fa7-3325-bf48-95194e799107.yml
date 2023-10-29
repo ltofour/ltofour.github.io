@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.187.9.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696665226105
+  login: 1696665222452
+money: '0'
+last-account-name: Liskon
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.5000843281585952
+  y: 101.0
+  z: 0.5001114033099291
+  yaw: 179.98226928710938
+  pitch: 0.019575323909521103

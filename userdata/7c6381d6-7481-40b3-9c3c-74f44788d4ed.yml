@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.220.213.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696676228055
+  login: 1696675634152
+money: '0'
+last-account-name: Kuranfil
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -24.98775593262181
+  y: 99.0
+  z: -20.396346117976247
+  yaw: -118.792236328125
+  pitch: 24.67969512939453

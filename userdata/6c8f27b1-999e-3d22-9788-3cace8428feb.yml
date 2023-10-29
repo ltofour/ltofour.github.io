@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.58.121.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698165777024
+  login: 1698165760271
+money: '0'
+last-account-name: barolasha
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.47597246953168637
+  y: 99.1212968405392
+  z: -33.69999998807907
+  yaw: -172.31900024414062
+  pitch: 12.20796012878418

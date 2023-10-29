@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.116.161.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696665841916
+  login: 1696665806559
+money: '0'
+last-account-name: chupson25
+logoutlocation:
+  world: 2d6c2aa3-3b85-4dd9-b4c5-6eb8676a8fa8
+  world-name: world
+  x: 0.0
+  y: 61.83071353889838
+  z: 0.0
+  yaw: -14.550018310546875
+  pitch: 4.950072765350342

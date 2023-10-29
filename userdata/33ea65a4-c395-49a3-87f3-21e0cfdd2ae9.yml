@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.221.20.103
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696955116487
+  login: 1696955110784
+money: '0'
+last-account-name: TheKakastan
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.07265615376937916
+  y: 99.0
+  z: -30.58618646827592
+  yaw: -173.57086181640625
+  pitch: 0.4888187646865845

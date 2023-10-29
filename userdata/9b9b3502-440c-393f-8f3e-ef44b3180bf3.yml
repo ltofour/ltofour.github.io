@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.43.160.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696611559906
+  login: 1696611545352
+money: '0'
+last-account-name: VoiddPierce
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.49946987065344184
+  y: 100.5
+  z: -2.593462892634459
+  yaw: 178.9801788330078
+  pitch: 0.5044513940811157

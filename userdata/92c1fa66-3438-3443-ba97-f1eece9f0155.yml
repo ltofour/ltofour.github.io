@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.222.93.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697043644004
+  login: 1697043596201
+money: '0'
+last-account-name: ThatOneUzbek
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.6666276747925668
+  y: 100.0
+  z: -33.0883646693513
+  yaw: 7.1796875
+  pitch: 22.838823318481445

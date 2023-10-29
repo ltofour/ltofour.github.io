@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.70.223.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696440640354
+  login: 1696440627352
+money: '0'
+last-account-name: LinusGilland
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 5.699999988079071
+  y: 99.0
+  z: -32.99054718206599
+  yaw: -58.220458984375
+  pitch: -33.28038024902344

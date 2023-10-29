@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.112.46.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696090009257
+  login: 1696089999754
+money: '0'
+last-account-name: mattykiller09
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.32808466521490187
+  y: 101.0
+  z: -0.48960214886654485
+  yaw: 169.94851684570312
+  pitch: 10.177796363830566

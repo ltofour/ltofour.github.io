@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.41.238.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696693368704
+  login: 1696693355050
+money: '0'
+last-account-name: TheNekros
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.3516966568929871
+  y: 100.17675927506424
+  z: -31.71353593521287
+  yaw: -179.56263732910156
+  pitch: 26.75562286376953

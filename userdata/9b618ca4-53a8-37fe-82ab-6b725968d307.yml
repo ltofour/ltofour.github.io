@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.237.218.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698165571973
+  login: 1698165434321
+money: '0'
+last-account-name: DjuroGamer
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -4.369665892511283
+  y: 99.0
+  z: -23.497570204042137
+  yaw: -157.5224609375
+  pitch: 12.73733139038086

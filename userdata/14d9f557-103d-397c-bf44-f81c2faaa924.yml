@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.35.36.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696702017452
+  login: 1696702003600
+money: '0'
+last-account-name: PollOnAuto
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.5000843281585952
+  y: 101.0
+  z: 0.5001114033099291
+  yaw: 167.35008239746094
+  pitch: 31.162906646728516

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.196.225.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696613183725
+  login: 1696613179953
+money: '0'
+last-account-name: AMRS7_901
+logoutlocation:
+  world: 2d6c2aa3-3b85-4dd9-b4c5-6eb8676a8fa8
+  world-name: world
+  x: 0.0
+  y: 77.0
+  z: 0.0
+  yaw: -12.90000057220459
+  pitch: 16.500001907348633

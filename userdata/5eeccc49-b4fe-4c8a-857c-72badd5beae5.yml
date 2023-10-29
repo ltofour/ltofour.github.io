@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.148.225.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698175610611
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698176334324
+  login: 1698174974621
+money: '0'
+last-account-name: mrcow4216
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 33.69999998807907
+  y: 116.5
+  z: -32.7114729916421
+  yaw: -92.41744995117188
+  pitch: 51.599700927734375
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -0.3413562695412781
+  y: 101.11759293784915
+  z: -5.727297030005141
+  yaw: -31.223297119140625
+  pitch: 33.03860855102539

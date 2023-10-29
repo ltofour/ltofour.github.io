@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.191.28.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696692129554
+  login: 1696692098300
+money: '0'
+last-account-name: dreamthatcoat
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -0.015803136906127807
+  y: 99.0
+  z: -31.51249998807907
+  yaw: -160.1586151123047
+  pitch: -15.218061447143555

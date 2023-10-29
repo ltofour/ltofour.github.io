@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.222.96.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696010947675
+  login: 1696010927973
+money: '0'
+last-account-name: Astor_smile
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -4.656081454033029
+  y: 99.0
+  z: -32.292594873146925
+  yaw: 102.88252258300781
+  pitch: -17.38041114807129

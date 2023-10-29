@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.240.244.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698164316774
+  login: 1698164267471
+money: '0'
+last-account-name: _MatchOver
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 3.1383554745726854
+  y: 99.0
+  z: -24.67992785452277
+  yaw: 31.779327392578125
+  pitch: -7.461242198944092

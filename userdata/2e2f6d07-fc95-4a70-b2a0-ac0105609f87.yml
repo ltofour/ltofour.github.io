@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.67.84.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696685925658
+  login: 1696685849000
+money: '0'
+last-account-name: frvw
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -4.972634001553333
+  y: 100.25220334025373
+  z: -37.37802381477151
+  yaw: -30.50543212890625
+  pitch: 25.980859756469727

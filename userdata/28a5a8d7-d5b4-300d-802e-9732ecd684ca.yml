@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.86.40.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696689345203
+  login: 1696689333500
+money: '0'
+last-account-name: BruteFactos
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.7879555735981375
+  y: 99.0
+  z: -30.540627109464513
+  yaw: 169.6322784423828
+  pitch: -0.2804204523563385

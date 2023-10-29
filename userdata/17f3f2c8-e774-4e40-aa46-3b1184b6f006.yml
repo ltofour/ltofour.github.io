@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.172.252.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696607414310
+  login: 1696607409502
+money: '0'
+last-account-name: LovelyBastard
+logoutlocation:
+  world: 2d6c2aa3-3b85-4dd9-b4c5-6eb8676a8fa8
+  world-name: world
+  x: 0.7994830469160108
+  y: 53.944271354237266
+  z: 0.5237901317412953
+  yaw: -116.10000610351562
+  pitch: 12.299999237060547

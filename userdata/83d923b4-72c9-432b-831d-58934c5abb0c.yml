@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.99.168.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698133424024
+  login: 1698133288771
+money: '0'
+last-account-name: kriskal
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 22.30000001192093
+  y: 99.0
+  z: -40.38596401380037
+  yaw: 15.3009033203125
+  pitch: 12.899975776672363

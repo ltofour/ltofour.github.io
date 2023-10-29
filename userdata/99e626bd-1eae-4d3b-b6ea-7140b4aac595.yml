@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 162.203.213.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696694536902
+  login: 1696694534950
+money: '0'
+last-account-name: HyperTheCrusader
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 3.5090973192823562
+  y: 100.5
+  z: 0.8324022486848397
+  yaw: -161.71630859375
+  pitch: 14.869625091552734

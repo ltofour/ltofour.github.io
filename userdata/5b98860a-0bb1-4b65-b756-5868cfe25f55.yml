@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.237.223.221
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698155591173
+  login: 1698155581471
+money: '0'
+last-account-name: 004z
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.4448807525638238
+  y: 101.0
+  z: -0.7021060018825126
+  yaw: 176.26080322265625
+  pitch: 30.47844696044922
+past-usernames:
+- KERNELBOJAA

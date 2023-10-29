@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.58.121.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698170396173
+  login: 1698170384621
+money: '0'
+last-account-name: JORAGUGU
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 1.815123036877979
+  y: 99.0
+  z: -17.141664085720965
+  yaw: 171.40492248535156
+  pitch: 28.01128387451172

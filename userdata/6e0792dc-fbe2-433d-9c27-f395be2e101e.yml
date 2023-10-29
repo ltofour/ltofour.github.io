@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.168.222.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696612669456
+  login: 1696612664952
+money: '0'
+last-account-name: Dgtuber
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.9242880799937199
+  y: 99.0
+  z: -30.645718130981543
+  yaw: 175.48260498046875
+  pitch: 15.169584274291992

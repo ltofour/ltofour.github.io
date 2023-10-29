@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.226.241.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696676251505
+  login: 1696676223152
+money: '0'
+last-account-name: 0GTB
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -19.079564086849896
+  y: 99.0
+  z: -43.732404059026955
+  yaw: 120.2822265625
+  pitch: 49.81964874267578

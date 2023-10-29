@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.189.223.235
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697032195228
+  login: 1697032183925
+money: '0'
+last-account-name: kimjajestem
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.03660945618263656
+  y: 99.0
+  z: -29.49032631132101
+  yaw: -92.88980865478516
+  pitch: 46.130409240722656

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.209.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696698147104
+  login: 1696697619150
+money: '0'
+last-account-name: NotZaxn
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -25.674694389706403
+  y: 99.0
+  z: -2.1876501623445304
+  yaw: -177.3275604248047
+  pitch: 21.599735260009766

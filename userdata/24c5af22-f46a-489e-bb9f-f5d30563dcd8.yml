@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.242.139.222
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696605192296
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696698068305
+  login: 1696697610412
+money: '0'
+last-account-name: ARankRen
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 1.312163298083133
+  y: 99.0
+  z: -13.05748417252236
+  yaw: 98.99776458740234
+  pitch: 5.794753074645996
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -19.084940170064968
+  y: 109.77725997355768
+  z: -42.25858876555188
+  yaw: 100.96910095214844
+  pitch: 29.94527816772461
+homes:
+  home:
+    world: c62e8fb3-05c4-42ec-a805-670c1978294e
+    world-name: void
+    x: -1.8571422123942634
+    y: 99.0
+    z: -28.350115550622277
+    yaw: -134.70065307617188
+    pitch: 19.182762145996094

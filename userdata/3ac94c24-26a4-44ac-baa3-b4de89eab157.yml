@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.143.45.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695542055267
+  login: 1695542055163
+money: '0'
+last-account-name: MMKCHANNELOK
+logoutlocation:
+  world: 2d6c2aa3-3b85-4dd9-b4c5-6eb8676a8fa8
+  world-name: world
+  x: 0.0
+  y: 77.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0

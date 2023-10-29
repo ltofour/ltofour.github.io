@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.147.108.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696499263505
+  login: 1696499227002
+money: '0'
+last-account-name: Nalllenik
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 4.2274001073011265
+  y: 99.0
+  z: -24.814299608563253
+  yaw: 29.977407455444336
+  pitch: 63.924583435058594

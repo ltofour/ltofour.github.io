@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.134.141.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696959614840
+  login: 1696959594334
+money: '0'
+last-account-name: GMilo
+logoutlocation:
+  world: 2d6c2aa3-3b85-4dd9-b4c5-6eb8676a8fa8
+  world-name: world
+  x: 2.6864143974739205
+  y: 57.63050902030944
+  z: 11.773046334854968
+  yaw: -17.280956268310547
+  pitch: 6.251644134521484

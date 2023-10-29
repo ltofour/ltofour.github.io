@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.217.212.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698163765373
+  login: 1698163761571
+money: '0'
+last-account-name: kubik123__pl
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 9.829798628333759
+  y: 99.0
+  z: -8.807014391016857
+  yaw: -152.9195556640625
+  pitch: -22.95001983642578
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.5
+  y: 101.0
+  z: 0.5
+  yaw: -179.570556640625
+  pitch: 10.238765716552734

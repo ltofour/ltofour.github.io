@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.232.66.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698090018775
+  login: 1698089991821
+money: '0'
+last-account-name: rogameri
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 16.373927932862095
+  y: 99.49520087700593
+  z: -56.701919124647304
+  yaw: 19.241878509521484
+  pitch: 17.86974334716797
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -24.47408532006536
+  y: 114.0
+  z: -16.545398222367478
+  yaw: -98.56161499023438
+  pitch: 13.244763374328613

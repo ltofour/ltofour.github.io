@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.93.50.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696698822007
+  login: 1696698816400
+money: '0'
+last-account-name: TheoHomm
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.5000843281585952
+  y: 101.0
+  z: 0.4629987947867544
+  yaw: 179.7591552734375
+  pitch: 1.9901679754257202

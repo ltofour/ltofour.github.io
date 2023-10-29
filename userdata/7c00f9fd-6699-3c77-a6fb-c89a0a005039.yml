@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 169.150.196.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696701664802
+  login: 1696701628400
+money: '0'
+last-account-name: MSM_NotBlack
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.5000843281585952
+  y: 101.0
+  z: 0.5001114033099291
+  yaw: 154.59083557128906
+  pitch: 8.96568489074707
