@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.131.64.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696000919408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696689715252
+  login: 1696688006500
+money: '0'
+last-account-name: EternalTheGod
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 37.9096893421982
+  y: 102.17346071799392
+  z: -73.75142752320188
+  yaw: -146.85723876953125
+  pitch: 11.249722480773926
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 45.41238400272657
+  y: 99.0
+  z: -44.115914731614
+  yaw: -131.31170654296875
+  pitch: 14.700033187866211

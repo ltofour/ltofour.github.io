@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.217.149.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696440206605
+  login: 1696440173611
+money: '0'
+last-account-name: Allgrenn13Jij
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -3.7253600768364437
+  y: 99.0
+  z: -31.279302331713456
+  yaw: 122.49298095703125
+  pitch: 1.9227628707885742

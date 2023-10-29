@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.44.9.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695315033158
+  login: 1695314687156
+money: '0'
+last-account-name: Sparkaqz
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.4994512950805305
+  y: 100.5
+  z: -2.8832813407560205
+  yaw: 179.98226928710938
+  pitch: 0.019575323909521103
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -3.4680521090723837
+  y: 99.0
+  z: -32.755073933347546
+  yaw: 84.58332824707031
+  pitch: -18.280481338500977

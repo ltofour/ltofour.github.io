@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.204.186.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696528683155
+  login: 1696526313302
+money: '0'
+last-account-name: Flyingorca763
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -32.54774247094754
+  y: 111.0
+  z: -33.05983267651071
+  yaw: -165.65234375
+  pitch: 2.0997695922851562
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.4996934700629332
+  y: 101.0
+  z: -0.9246356932753494
+  yaw: 179.98226928710938
+  pitch: 0.019575323909521103

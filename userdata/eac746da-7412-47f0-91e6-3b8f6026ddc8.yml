@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.108.41.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696694537453
+  login: 1696694534800
+money: '0'
+last-account-name: Lqrzy
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 7.5470407256773635
+  y: 103.43670970790473
+  z: -18.34152229588521
+  yaw: -159.49130249023438
+  pitch: 15.186339378356934

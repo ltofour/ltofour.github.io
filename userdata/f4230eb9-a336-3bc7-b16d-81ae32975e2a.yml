@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.169.71.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698155018223
+  login: 1698150465021
+money: '0'
+last-account-name: Muxzvii
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 12.270927946695297
+  y: 99.0
+  z: -24.01440196532403
+  yaw: -77.9873046875
+  pitch: 74.8521957397461
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 18.30000001192093
+  y: 99.0
+  z: -22.52395080092169
+  yaw: 29.679351806640625
+  pitch: 15.938783645629883
