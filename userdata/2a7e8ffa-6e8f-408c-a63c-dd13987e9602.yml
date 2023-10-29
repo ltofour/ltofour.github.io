@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.156.213.240
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695891817411
+  login: 1695891800108
+money: '0'
+last-account-name: Maci0r3q
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 5.245682806929445
+  y: 99.0
+  z: -31.2053488568242
+  yaw: -142.92764282226562
+  pitch: 6.079452037811279
