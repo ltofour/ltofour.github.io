@@ -13,7 +13,7 @@ header {
     justify-content: left;
 }
 
-header button {
+button {
     display: inline-block !important;
     vertical-align: middle !important;
     width: fit-content !important;
@@ -29,7 +29,7 @@ header button {
     transition: all 2s !important;
 }
 
-header button:hover {
+button:hover {
     background-color: rgb(30, 30, 30) !important;
     border-radius: 10px !important;
     cursor: pointer !important;
