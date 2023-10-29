@@ -110,3 +110,7 @@ header a {
     max-width: 500px;
     width: fit-content;
 }
+
+pre {
+    color: white;
+}
