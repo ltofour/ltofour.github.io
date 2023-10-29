@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.58.120.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698145992975
+  login: 1698145946221
+money: '0'
+last-account-name: UNDER714
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 275.5
+  y: -63.0
+  z: -491.5
+  yaw: 143.13209533691406
+  pitch: 17.09968376159668
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.5
+  y: 101.0
+  z: 0.5
+  yaw: 179.07943725585938
+  pitch: 62.588768005371094

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.221.244.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696621235006
+  login: 1696620999554
+money: '0'
+last-account-name: rezi_fantomix
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -1.0119958047674904
+  y: 99.0
+  z: -30.840885353347787
+  yaw: -130.0569305419922
+  pitch: -3.5877861976623535

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.148.31.14
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696618716468
+  login: 1696618690303
+money: '0'
+last-account-name: JohnnyFairplay62
+logoutlocation:
+  world: 2d6c2aa3-3b85-4dd9-b4c5-6eb8676a8fa8
+  world-name: world
+  x: -2.6340613855050266
+  y: 61.307419279515535
+  z: -2.659347901585816
+  yaw: 160.3511505126953
+  pitch: 2.550014019012451

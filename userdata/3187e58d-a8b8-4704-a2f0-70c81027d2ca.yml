@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.50.59.196
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698175387474
+  login: 1698174729771
+money: '0'
+last-account-name: nedimcome69
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.28043005551557393
+  y: 99.0
+  z: -20.375819918866284
+  yaw: -94.77691650390625
+  pitch: -5.400030612945557
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 7.858514351747002
+  y: 99.0
+  z: -17.35195372652349
+  yaw: 171.92283630371094
+  pitch: -15.14961051940918

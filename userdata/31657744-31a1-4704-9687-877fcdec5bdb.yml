@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.157.249.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697044212853
+  login: 1697044377151
+money: '0'
+last-account-name: ScappiDoo
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 1.300000011920929
+  y: 99.50452114437547
+  z: -31.85577222982371
+  yaw: 142.94195556640625
+  pitch: 15.488513946533203

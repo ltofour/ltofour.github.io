@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.140.250.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695322717408
+  login: 1695322699056
+money: '0'
+last-account-name: _Xanny_Bars_
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -5.0199646838746395
+  y: 99.0
+  z: -30.774701852181895
+  yaw: 155.5324249267578
+  pitch: 3.1695797443389893

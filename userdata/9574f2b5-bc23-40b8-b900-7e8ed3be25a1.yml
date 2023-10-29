@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.49.16.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696698203303
+  login: 1696697609850
+money: '0'
+last-account-name: P0gShame
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: -47.30000001192093
+  y: -130.84374690760652
+  z: -47.70887634565541
+  yaw: 179.98226928710938
+  pitch: 0.019575323909521103

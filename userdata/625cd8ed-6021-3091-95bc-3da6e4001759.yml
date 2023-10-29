@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.169.179.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698146122073
+  login: 1698145166621
+money: '0'
+last-account-name: chantura
+logoutlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 0.8677144776343856
+  y: 101.0
+  z: 1.0129172699344566
+  yaw: 178.92979431152344
+  pitch: 13.05002498626709
+lastlocation:
+  world: c62e8fb3-05c4-42ec-a805-670c1978294e
+  world-name: void
+  x: 25.403704363380918
+  y: 115.00133597911214
+  z: -31.59117774101831
+  yaw: 165.2794647216797
+  pitch: 16.98876190185547
