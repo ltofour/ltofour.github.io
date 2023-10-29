@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+* {
+    background-color: rgb(8, 17, 12);
+}
+
+header {
+    margin-top: 5%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+}
+
+header button {
+    display: inline-block;
+    vertical-align: middle;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    color: white;
+    font-size: 24px;
+    color: rgb(207, 207, 207);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    margin-left: 50px;
+    border: 1px dashed rgba(98, 98, 98, 0.5);
+    transition: all 2s;
+}
+
+header button:hover {
+    background-color: rgb(30, 30, 30);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 2s;
+}
+
+header h1 {
+    font-size: 30px;
+    color: rgb(207, 207, 207);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    border-bottom: 1px solid rgb(75, 151, 50);
+    width: fit-content;
+    margin-bottom: 25px;
+}
+
+header h1::before {
+    content: './ ';
+    border-bottom: 1px solid rgb(8, 17, 12);
+}
+
+header a {
+    color: inherit;
+    text-decoration: inherit;
+    transition: all 3s;
+}
+
+#body:hover {
+    background-color: rgb(20, 18, 33);
+    border-bottom: none;
+    border-radius: 10px;
+    padding: 10px;
+    transition: all 3s;
+}
+
+#bio {
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    width: 35%;
+    margin-top: 50px;
+    margin-left: 40px;
+    backdrop-filter: blur(5px);
+    border: 1px dashed rgba(98, 98, 98, 0.5);
+    border-radius: 5px;
+    box-shadow: 0px 0px 50px rgba(169, 169, 169, 0.059);
+    background-color: rgba(35, 35, 35, 0.1);
+}
+
+#bio h1 {
+    display: block;
+    font-size: 30px;
+    color: rgb(218, 21, 21);
+    font-family: 'Special Elite';
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#bio p {
+    font-size: 20px;
+    color: rgb(137, 137, 137);
+    font-family: 'Special Elite';
+    letter-spacing: 1px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#bio span {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#blurred {
+    filter: blur(4px);
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#socials {
+    border: 1px dashed white;
+    padding: 6px;
+    max-width: 500px;
+    width: fit-content;
+}
